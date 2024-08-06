@@ -1,0 +1,1 @@
+This project uses basic English Spacy model "en_core_web_md" for finding semantic similarity between user provided key word and the movie reviews which I had taken from Kaggle link(https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). Thankyou
